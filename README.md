@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 Hello I'm Henrique, I working on the Checkmate Project.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueChenWyden&theme=gotham&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueChenWyden&theme=gotham&show_icons=true)
