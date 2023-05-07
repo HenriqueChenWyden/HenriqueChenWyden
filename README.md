@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello I'm Henrique, I working on the Checkmate Project.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueChenWyden)](https://github.com/anuraghazra/github-readme-stats)
