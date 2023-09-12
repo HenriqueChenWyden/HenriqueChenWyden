@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello I'm Henrique, currently studying Computer Science on UNIFBV. (Incoming to Nova Roma University.)
+Hello I'm Henrique, currently studying Computer Science on Nova Roma University.
 <br>Current Project: Checkmate System. 🖥️
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueChenWyden&theme=gotham&show_icons=true)
