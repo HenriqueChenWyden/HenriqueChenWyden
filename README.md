@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 Hello I'm Henrique, currently studying Computer Science on Nova Roma University.
 <br>Current Project: None. 🖥️
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueChenWyden&theme=gotham&show_icons=true)
+![Estatísticas do Github](https://github-stats-extended.vercel.app/api?username=HenriqueChenWyden&theme=gotham&show_icons=true)
